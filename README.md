@@ -1,19 +1,19 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+LXR+YOUTUBER+WA+Bot+repo;Created+by+Amal;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+QUEEN+ALEXA+whatsapp+Bot+repo;Created+by+En+Cuzier;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="https://telegra.ph/file/6cae56a1a71342777acdc.jpg" alt="JPG" width="300" height="250"/>
+<img src="https://telegra.ph/file/b20bc54c41f6f8d85eeee.jpg" alt="JPG" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/LXR-YOUTUBER-AMAL"><img title="Author" src="https://img.shields.io/badge/Author-Amal-LXR-YOUTUBER-AMAL/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/En-Cuzier"><img title="Author" src="https://img.shields.io/badge/Author/Encuzier/QUUENALEXA2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/LXR-YOUTUBER-AMAL">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/En-Cuzier/Alexa-v">Encuzier</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/LXR-YOUTUBER-AMAL">Amalser_v2</a>
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/Amalser_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/En-Cuzier/Alexa-v) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/LXR-YOUTUBER-AMAL">Amalser_v2</a>
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/LXR-YOUTUBER-AMAL/Amalser_v2
+$ git clone https://github.com/En-Cuzier/Alexa-v
 $ cd Amalser_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -43,7 +43,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/LXR-YOUTUBER-AMAL/Amalser_v2
+$ git clone https://github.com/En-Cuzier/Alexa-v
 $ cd Amalser_v2
 $ npm i
 $ node julie.js
@@ -52,7 +52,7 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href=https://github.com/En-Cuzier/Alexa-v>
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
@@ -85,10 +85,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Shahid-devil](https://github.com/shahid-devil.png?size=150)](https://github.com/farhan-dqz) | [![LXRYOUTUBER](https://github.com/LXR-YOUTUBER-AMAL.png?size=150)](https://github.com/LXR-YOUTUBER-AMAL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=150)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=150)](https://github.com/afnanplk) 
-----|----|----|----
-[Shahid-devil](https://github.com/shahid-devil) | [LXRYOUTUBER](https://github.com/LXR-YOUTUBER-AMAL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+  [![En-Cuxier](https://github.com/En-Cuzier.png?size=150)](https://github.com/En-Cuzier) |
+----|
+[En-Cuzier](https://github.com/En-Cuzier) | 
+Developer, Base, Bug Fixes, Modules| 
   </div>
     
 
